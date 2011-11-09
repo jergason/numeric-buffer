@@ -1,0 +1,19 @@
+{
+  "author": "Jamison Dance <jergason@gmail.com> (http://jamisondance.com/)",
+  "name": "numeric-buffer",
+  "description": "Create Node.js Buffers with integers",
+  "keywords": ["buffer", "integer"],
+  "version": "0.1.0",
+  "repository": {
+    "url": ""
+  },
+  "main": "./numeric-buffer.js",
+  "scripts": {
+    "test": "jasmine-node spec"
+  },
+  "engines": {
+    "node": "~0.4.12"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
